@@ -2,7 +2,7 @@
 # HuskTowns
 [![Discord](https://img.shields.io/discord/818135932103557162?color=7289da&logo=discord)](https://discord.gg/tVYhJfyDWG)
 
-**HuskTowns** is a simple bungee-compatible Towny-style protection plugin for SpigotMC Minecraft servers. The plugin lets players form towns and claim land chunks on your server to protect them from grief. With a beautiful chat interface, easy to use commands - not to mention the ability for everything to work across multiple servers on a bungee network - your players will love HuskTowns on your server.
+**HuskTowns** is a simple bungee-compatible Towny-style protection plugin for SpigotMC Minecraft servers. The plugin lets players form towns and claim land chunks on your server to protect them from grief. With a beautiful chat interface, easy to use commands - not to mention the ability for everything to work across multiple servers on a bungee network - your players will love using HuskTowns on your server.
 
 ## Features
 * Let players create towns on your server.
