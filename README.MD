@@ -63,4 +63,4 @@ You can turn metric collection off by navigating to `plugins/bStats/config.yml` 
 ## Support
 * Report bugs: [Click here](https://github.com/WiIIiam278/HuskTownsDocs/issues)
 * Check the HuskTowns Wiki: [Click here](https://github.com/WiIIiam278/HuskTownsDocs/wiki)
-* If you still need support, join the [HuskHelp Discord](https://discord.gg/tVYhJfyDWG)!
+* If you still need support, join the [HuskHelp Discord](https://discord.gg/tVYhJfyDWG)! Proof of purchase required. I do not provide support for those with illegal copies.
