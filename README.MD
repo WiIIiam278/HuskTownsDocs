@@ -11,13 +11,16 @@
 * Make farm areas within your town that all citizens can use.
 * Towns can level up based on wealth - integrates with your economy!
 * Set a town spawn and teleport to it.
-* Customise town messages, change the name & transfer ownership.
+* Customize town messages, change the name & transfer ownership.
+* Coordinate with members of your town using town chat.
 * Beautiful chat displays and clickable systems that are easy to use.
-* Display claims on your server Dynmap.
-* Works well with my other plugin, [HuskHomes](https://github.com/WiIIiam278/HuskHomes2).
+* Display claims on your server Dynmap or BlueMap.
+* Works well with my other plugin, HuskHomes.
 * All this works cross-server on a bungee network!
 * All commands are intuitive and have permissions & TAB completion.
+* Create administrator claims and apply bonuses to towns.
 * Detailed configuration with a helpful plugin Wiki.
+* Has a developer API!
 
 ## Showcase
 |[<img src="https://img.youtube.com/vi/YnnprTNczeY/maxresdefault.jpg" height="300" />](https://youtu.be/YnnprTNczeY)|
@@ -29,9 +32,9 @@
 * /map, /claim, /unclaim
 * /invite, /evict,
 * /demote, /promote, /transfer
-* /farm, /plot
-* /claimlist, /townlist
-* /adminclaim, /autoclaim
+* /farm, /plot, /autoclaim
+* /claimlist, /townlist,
+* /adminclaim, /townbonus
 * /husktowns <help/about/...>
 
 ## Setup
