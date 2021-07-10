@@ -33,8 +33,8 @@
 * /invite, /evict,
 * /demote, /promote, /transfer
 * /farm, /plot, /autoclaim
-* /claimlist, /townlist,
-* /adminclaim, /townbonus
+* /claimlist, /townlist, /admintown
+* /adminclaim, /ignoreclaims, /townbonus
 * /husktowns <help/about/...>
 
 ## Setup
