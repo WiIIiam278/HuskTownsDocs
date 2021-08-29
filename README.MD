@@ -14,7 +14,7 @@
 * Customize town messages, change the name & transfer ownership.
 * Coordinate with members of your town using town chat.
 * Beautiful chat displays and clickable systems that are easy to use.
-* Display claims on your server Dynmap or BlueMap.
+* Display claims on your server Dynmap, BlueMap or Pl3xMap.
 * Works well with my other plugin, HuskHomes.
 * All this works cross-server on a bungee network!
 * All commands are intuitive and have permissions & TAB completion.
